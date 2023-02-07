@@ -48,3 +48,7 @@ p {
 .established {
     font-style: italic;
 }
+
+hr {
+    height: 3px;
+}
